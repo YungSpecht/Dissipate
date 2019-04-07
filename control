@@ -1,0 +1,9 @@
+Package: com.rango.dissipate
+Name: Dissipate
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lightweight Tweak that hides Icon Labels on iOS 12 and below
+Maintainer: Rango
+Author: Yung Specht
+Section: Tweaks
